@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "حامد",
+                "last": "کوتی"
+            },
+            "location": {
+                "street": {
+                    "number": 9017,
+                    "name": "پارک 17 شهریور"
+                },
+                "city": "قائم‌شهر",
+                "state": "تهران",
+                "country": "Iran",
+                "postcode": 90664,
+                "coordinates": {
+                    "latitude": "30.2364",
+                    "longitude": "-97.6064"
+                },
+                "timezone": {
+                    "offset": "+5:45",
+                    "description": "Kathmandu"
+                }
+            },
+            "email": "hmd.khwty@example.com",
+            "login": {
+                "uuid": "5ebee93e-bc9c-4977-a510-30dc1d9702ff",
+                "username": "bigbear311",
+                "password": "energy",
+                "salt": "SXKXLEDj",
+                "md5": "5b5e322a8d7be244039fdaab54f47a14",
+                "sha1": "6fbd0ba2f87bc87a213af7310adffcae17c749f0",
+                "sha256": "9f444fdba923de1b4481e20017d80ad222d0421ad6c70f3b120a385af076c969"
+            },
+            "dob": {
+                "date": "1946-12-10T07:21:47.975Z",
+                "age": 74
+            },
+            "registered": {
+                "date": "2017-03-18T07:08:39.120Z",
+                "age": 3
+            },
+            "phone": "008-54019985",
+            "cell": "0985-167-6295",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/80.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/80.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/80.jpg"
+            },
+            "nat": "IR"
+        }
+    ],
+    "info": {
+        "seed": "575ba0fe5a18c2b1",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
